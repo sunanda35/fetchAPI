@@ -1,0 +1,17 @@
+{
+  "name": "buildapi",
+  "version": "1.0.0",
+  "description": "It's a application that runs and give my data to others",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "sunanda",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
